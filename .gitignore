@@ -1,0 +1,13 @@
+# Frontend (Node/JavaScript)
+node_modules/
+.env
+
+# Backend (Python)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
